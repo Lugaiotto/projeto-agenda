@@ -3,7 +3,7 @@
 
 🚀 How it works:
 
-This is a online schedule project based in Express JS with Login/Register filter and a CRUD using MongoDB to store contacts.
+This is a online appointment book (Agenda) project based in Express JS with Login/Register filter and a CRUD using MongoDB to store contacts.
 
 🛠️ How to install:
 
