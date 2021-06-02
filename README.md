@@ -23,10 +23,10 @@ And now to run the code:
 
 So now just open the "index.html" file using your favorite browser and voilá.
 
-# This schedule project was created for studying purposes, in this project i've learned:
+ This schedule project was created for studying purposes, in this project i've learned:
 
     How create routes to get and post information - ✔️
-    MVC Pattern to organize folders - ✔️
+    MVC Pattern to organize the project and folders - ✔️
     Use of Middlewares to handle requests - ✔️
     Upload and request information from MongoDB using Atlas Cloud Service - ✔️
     Create hashs to store passwords safely in database - ✔️
